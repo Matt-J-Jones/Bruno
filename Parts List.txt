@@ -1,0 +1,7 @@
+2x Arduino Nano
+1x 200Ohm Resistor
+1x LED (Red)
+1x HC-SR04 Ultrasonic Distance Sensor
+2x 5V 4-Phase Stepper Motor ULN2003
+1x SG90-HV Servo Motor
+1x 5V Breadboard Power Supply
